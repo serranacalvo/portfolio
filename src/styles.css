@@ -40,6 +40,15 @@ body,
   min-height: 100%;
 }
 
+link[rel="icon"],
+img[src="/images/profile/me.png"] {
+  background-color: transparent !important; /* Fuerza el fondo transparente */
+  border: none !important; /* Elimina cualquier borde */
+  border-radius: 50%; /* Hace la imagen circular */
+  object-fit: cover; /* Asegura que la imagen llene el círculo */
+  display: block; /* Asegura que las propiedades funcionen */
+}
+
 body {
   margin: 0;
   background:

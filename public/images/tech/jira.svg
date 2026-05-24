@@ -1,0 +1,7 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#0052CC"/>
+  <path d="M34 32L86 42L74 88L24 78L34 32Z" fill="#FFFFFF" opacity="0.16"/>
+  <path d="M48 44H72V64H48V44Z" fill="#FFFFFF"/>
+  <path d="M44 74H68V86H44V74Z" fill="#FFFFFF"/>
+  <text x="50%" y="108" text-anchor="middle" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="14" font-weight="700">Jira</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="320" height="140" viewBox="0 0 320 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="320" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="140" rx="24" fill="url(#g1)"/>
+  <rect x="16" y="16" width="288" height="108" rx="16" fill="rgba(255,255,255,0.08)"/>
+  <text x="24" y="58" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="28" font-weight="700">PMP®</text>
+  <text x="24" y="92" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="14">Project Management Professional</text>
+  <text x="24" y="116" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="12">PMI Institute</text>
+</svg>

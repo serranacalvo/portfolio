@@ -1,0 +1,5 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#333333"/>
+  <path d="M60 12L100 34V86L60 108L20 86V34L60 12Z" fill="#339933" stroke="#8BC34A" stroke-width="6"/>
+  <text x="50%" y="62%" text-anchor="middle" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="28" font-weight="700">JS</text>
+</svg>

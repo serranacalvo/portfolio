@@ -1,0 +1,7 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#336791"/>
+  <circle cx="60" cy="46" r="22" fill="#ffffff" opacity="0.18"/>
+  <path d="M60 34C55 34 50 38 50 44C50 50 55 54 60 54C65 54 70 50 70 44C70 38 65 34 60 34Z" fill="#FFFFFF"/>
+  <path d="M60 56C48 56 40 62 40 70V78H80V70C80 62 72 56 60 56Z" fill="#FFFFFF"/>
+  <text x="50%" y="110" text-anchor="middle" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="14" font-weight="700">Postgres</text>
+</svg>

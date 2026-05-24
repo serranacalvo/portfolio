@@ -1,0 +1,6 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#0078D4"/>
+  <path d="M32 32L74 36L88 76L52 86L32 32Z" fill="#FFFFFF" opacity="0.18"/>
+  <path d="M34 34L58 44L68 76L44 86L34 34Z" fill="#FFFFFF"/>
+  <text x="50%" y="108" text-anchor="middle" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="12" font-weight="700">Azure DevOps</text>
+</svg>

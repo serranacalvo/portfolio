@@ -1,0 +1,6 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#E0234E"/>
+  <path d="M60 24L28 42V78L60 96L92 78V42L60 24Z" fill="#FFFFFF" opacity="0.14"/>
+  <path d="M60 42L40 52V68L60 78L80 68V52L60 42Z" fill="#FFFFFF"/>
+  <text x="50%" y="106" text-anchor="middle" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="14" font-weight="700">NestJS</text>
+</svg>

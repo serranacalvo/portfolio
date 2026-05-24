@@ -40,15 +40,6 @@ body,
   min-height: 100%;
 }
 
-link[rel="icon"],
-img[src="/images/profile/me.png"] {
-  background-color: transparent !important; /* Fuerza el fondo transparente */
-  border: none !important; /* Elimina cualquier borde */
-  border-radius: 50%; /* Hace la imagen circular */
-  object-fit: cover; /* Asegura que la imagen llene el círculo */
-  display: block; /* Asegura que las propiedades funcionen */
-}
-
 body {
   margin: 0;
   background:
@@ -70,7 +61,7 @@ body::before {
   background:
     linear-gradient(135deg, rgba(110, 231, 249, 0.1), transparent 30%),
     linear-gradient(315deg, rgba(244, 201, 93, 0.08), transparent 28%);
-  mask-image: linear-gradient(to bottom, #000 0%, transparent 72%);
+  /* mask-image: linear-gradient(to bottom, #000 0%, transparent 72%); */
 }
 
 a {
@@ -101,7 +92,7 @@ textarea {
   padding: 0.85rem max(1.2rem, calc((100vw - 1180px) / 2));
   border-bottom: 1px solid var(--line);
   background: rgba(8, 10, 15, 0.78);
-  backdrop-filter: blur(18px);
+  /* backdrop-filter: blur(18px); */
 }
 
 .brand {
